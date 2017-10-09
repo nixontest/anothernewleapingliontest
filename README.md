@@ -1,1 +1,2 @@
-# Test Site for the Leaping Lion Books Redesign
+# newleapingliontest
+The Redesigned Leaping Lion Books Test Site
